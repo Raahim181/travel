@@ -3,7 +3,7 @@
 //     $username="root";
 //     $password="";
 //     $db="book_db";
-$server=" remotemysql.com";
+$server="remotemysql.com";
     $username="qTmrQtTYdl";
     $password="bB4h3ECcPy";
     $db="qTmrQtTYdl";
