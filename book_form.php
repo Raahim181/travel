@@ -1,8 +1,12 @@
 <?php
-    $server="localhost:3307";
-    $username="root";
-    $password="";
-    $db="book_db";
+//     $server="localhost:3307";
+//     $username="root";
+//     $password="";
+//     $db="book_db";
+$server=" remotemysql.com";
+    $username="qTmrQtTYdl";
+    $password="bB4h3ECcPy";
+    $db="qTmrQtTYdl";
     
 
    $connection = mysqli_connect($server,$username,$password,$db);
